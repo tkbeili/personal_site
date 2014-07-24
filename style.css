@@ -1,0 +1,47 @@
+body {
+  font-family: Lato, Arial;
+  margin-top: 25px;
+  background-color: #FBFBFB;
+}
+
+.main-image {
+  border-radius: 50%;
+  width: 100%;
+  border: 1px dashed;
+  border-color: #E5E5E5;
+}
+
+h1 {
+  font-size: 72px;
+}
+
+h2 {
+  font-size: 55px;
+}
+
+.white-bg {
+  background-color: #FFFFFF;
+}
+
+section {
+  border-bottom: 5px solid #E5E5E5;
+  overflow: hidden;
+  padding-bottom: 25px;
+  padding-top: 25px;
+}
+
+.current-status {
+  margin-top: 100px;
+}
+
+.social-media {
+  margin-top: 100px;
+}
+
+.social-media i {
+  font-size: 50px;
+}
+
+.skills-section h3, .experience-section h3 {
+  margin-top: 0px;
+}
